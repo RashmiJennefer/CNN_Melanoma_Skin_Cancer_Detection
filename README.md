@@ -27,6 +27,9 @@ Overfitting eliminated to reach a decent accuracy by using:
 - Managing Class imbalance
 - Using Dropout Layers
 
+The final model gave Train accuracy of 0.8865 and Validation accuracy of 0.8456
+
+![model3](https://user-images.githubusercontent.com/102295422/190107156-461528ad-0997-4e59-8bec-38d19a14aced.png)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -37,9 +40,9 @@ Overfitting eliminated to reach a decent accuracy by using:
 - Python
 - Augmentor
 - Convolution Neural Network
-![model3](https://user-images.githubusercontent.com/102295422/190107156-461528ad-0997-4e59-8bec-38d19a14aced.png)
 
-The final model gave Train accuracy of 0.8865 and Validation accuracy of 0.8456
+
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
