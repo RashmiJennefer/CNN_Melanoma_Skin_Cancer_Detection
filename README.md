@@ -1,5 +1,5 @@
 # Melanoma Skin Cancer Detection
-> Outline a brief description of your project.
+> To build a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 
 ## Table of Contents
