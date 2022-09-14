@@ -22,10 +22,11 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - Model 3 : Automatic Augmentation
  
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Overfitting eliminated to reach a decent accuracy by using:
+- Data augmentation
+- Managing Class imbalance
+- Using Dropout Layers
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -36,16 +37,17 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - Python
 - Augmentor
 - Convolution Neural Network
+![model3](https://user-images.githubusercontent.com/102295422/190107156-461528ad-0997-4e59-8bec-38d19a14aced.png)
 
+The final model gave Train accuracy of 0.8865 and Validation accuracy of 0.8456
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by family & Friends.
 
 
 ## Contact
-Created by [@rashmijennefer] - feel free to contact me!
+Created by [@RashmiJennefer] - feel free to contact me!
 
 
 <!-- Optional -->
